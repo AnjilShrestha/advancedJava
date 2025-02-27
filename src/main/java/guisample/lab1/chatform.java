@@ -13,6 +13,7 @@ import java.awt.event.*;
 import java.awt.*;
 import java.io.*;
 import javax.swing.border.*;
+import java.awt.Font;
 public class chatform implements ActionListener {
     JLabel label;
     JTextField text;

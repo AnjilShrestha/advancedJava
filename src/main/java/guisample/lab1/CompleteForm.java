@@ -10,7 +10,7 @@ package guisample.lab1;
  */
 import javax.swing.*;
 import java.awt.event.*;
-import java.awt.*;
+import java.awt.*;import java.awt.Font;
 
 public class CompleteForm implements ActionListener {
     JLabel header,lblname,lblemail,lblnumber,lblmessage,lblcheck;
